@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=28,30&text=Ryujy&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=28,30&text=Ryujy&reversal=false)
 
 </div>
 
