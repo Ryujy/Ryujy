@@ -1,4 +1,9 @@
-https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=0,30&text=Ryujy&reversal=false
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=0,30&text=Ryujy&reversal=false)
+
+</div>
+
 
 <!--
 **Ryujy/Ryujy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
