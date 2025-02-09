@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![Ryujy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryujy&theme=solarized-light)](https://github.com/ChaNyeok1225/github-readme-stats)
+<!--
 [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyun3016)](https://solved.ac/jiyun3016)
-  
+-->
 </div>
